@@ -22,7 +22,7 @@
 		"node-schedule": "^2.1.1",
 		"pg": "^8.16.2",
 		"sequelize": "^6.19.0",
-		"sharp": "^0.33.4",
+		"sharp": "^0.35.5",
 		"zod": "^3.25.67"
 	},
 	"devDependencies": {
